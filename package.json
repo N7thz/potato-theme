@@ -1,0 +1,21 @@
+{
+  "name": "potato-theme",
+  "displayName": "potato-theme",
+  "description": "theme developer for fun and studys",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Nathan Ferreira",
+        "uiTheme": "vs-dark",
+        "path": "./themes/potato-theme.json"
+      }
+    ]
+  }
+}
